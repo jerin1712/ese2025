@@ -1,0 +1,5 @@
+total 12
+-rw-r--r-- 1 dj dj 1066 Jun 11 11:05 LICENSE
+-rw-r--r-- 1 dj dj   77 Jun 11 11:05 README.md
+-rw-r--r-- 1 dj dj    0 Jun 12 08:08 tempfile.txt
+-rw-r--r-- 1 dj dj  151 Jun 12 08:07 temptfile.txt
